@@ -1,3 +1,17 @@
+/*
+brown colour
+FFF0D5
+DDC69D
+B99C6B
+997B48
+7D5D28
+*/
 body {
     text-align: center;
+    background: #DDC69D;
+}
+
+header h1 {
+	color: #000;
+	text-shadow: 2px 2px 2px #FFF0D5;
 }
