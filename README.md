@@ -1,5 +1,4 @@
 # **frontend-nanodegree-arcade-game**
-    ===============================
 
 Arcade style game made as part of the Udacity nanodegree.
 
@@ -38,7 +37,7 @@ I will look into all pull requests as soon as possible.
 
 ## Authors
 
-** CarlosEAM **
+**CarlosEAM**
 
 ## License
 
